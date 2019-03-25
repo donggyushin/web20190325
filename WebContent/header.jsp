@@ -19,7 +19,7 @@
         <span>201303024</span>
         <span>이름</span>
         <span>:</span>
-        <span>홍길동</span>
+        <span>신동규</span>
     </div>
 </body>
 </html>
