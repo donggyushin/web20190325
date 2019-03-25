@@ -27,6 +27,7 @@
     %>
     <%
         if(id == null || password == null) {
+        	// id 나 password 가 없을 경우에는 로그인에 실패했다고 해주고 이전페이지로 리다이렉트시켜줌
             %>
             <script>
                 alert('로그인 실패');

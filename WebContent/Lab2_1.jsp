@@ -2,6 +2,7 @@
 	pageEncoding="UTF-8"%>
 <%
 	request.setCharacterEncoding("UTF-8");
+	// 한글을 안깨지게 하기 위해서 인코딩을 UTF-8 으로 맞춰준다. 
 %>
 <!DOCTYPE html>
 <html>

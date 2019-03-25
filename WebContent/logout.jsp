@@ -4,7 +4,7 @@
 	request.setCharacterEncoding("UTF-8");
 %>
 <%
-        session.invalidate();
+        session.invalidate();	// 남아있는 모든 세션에 대한 정보를 지워줌. 
     %>
 <!DOCTYPE html>
 <html>

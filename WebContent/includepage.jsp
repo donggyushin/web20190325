@@ -14,6 +14,7 @@
         String season = request.getParameter("season");
         String id = (String)session.getAttribute("id");
     %>
+    
     <p><%=id%>님이 좋아하는 계절은 <%=season%>입니다. </p>
 </body>
 </html>
